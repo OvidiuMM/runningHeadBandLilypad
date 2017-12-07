@@ -1,9 +1,9 @@
 /*************************************************************
-  Download latest .. github
+  Download latest:
+  https://github.com/OvidiuMM/runningHeadBandLilypad
 
-  Code is for...
-
-
+  Code is for a Smart Head Band buitl with LilyPad board and
+  complements
  *************************************************************
   This example runs directly on LilyPad chip.
 
