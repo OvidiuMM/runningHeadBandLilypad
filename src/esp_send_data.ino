@@ -8,8 +8,8 @@
 #include <WiFiClientSecure.h>
 
 //******Pushbullet code
-const char* ssid = "*****";
-const char* password = "*****";
+const char* ssid = "*****"; //replace with your own SSID
+const char* password = "*****"; //replace with your SSID password
 
 const char* host = "api.pushbullet.com";
 const int httpsPort = 443;
